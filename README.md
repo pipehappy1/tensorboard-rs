@@ -1,3 +1,5 @@
+Not active, checkout https://github.com/pipehappy1/auto-diff
+
 # Write to tensorboard in Rust #
 
 Write TensorBoard events in Rust.
